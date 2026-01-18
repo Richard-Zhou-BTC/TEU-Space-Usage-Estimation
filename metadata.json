@@ -1,0 +1,5 @@
+{
+  "name": "Cargo3D - Container Loading Visualizer",
+  "description": "A 3D visualization tool for optimizing and viewing the packing of 29 specific wooden crates into 8.2m containers, ensuring vertical stability.",
+  "requestFramePermissions": []
+}
